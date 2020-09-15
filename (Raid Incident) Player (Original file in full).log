@@ -1,0 +1,1132 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8172 MB
+    Driver:   26.20.15002.61
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.101 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.453500 ms
+RimWorld 1.2.2753 rev712
+Mod SRTS Expanded: RotorCraft dependency (smashphil.neceros.srtsexpanded) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod X-Com Skyranger dependency (smashphil.neceros.srtsexpanded) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8ABC55C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8A9DA0E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AAB52E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AD325E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AD56FF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AD59C00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD85962020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AB33020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AD8F820.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AB42030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AD98C30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8ADC4050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8ADE2460.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8ABB2650.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AE99020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AE5F540.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF58050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF5E460.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF6DC80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AB9BC40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF72490.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF7E4B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF8EEF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AF9A910.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AFB3120.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AFB5F30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8AFD7750.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B091980.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B096790.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B099DA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B09C1B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B0A0DC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B118E10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B123A30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B158E70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD85AB75A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD85ABE1B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD85AD89C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD85AEABF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B2A8E30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8ABAD630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD9163ECC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD9164A0D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91671CE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91779820.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD917FA040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B2B5270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD918C9270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD8B2BC090.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91983690.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD9199AAC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91A548E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91A59F00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91A62110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91A63F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B31350.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B3B360.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B3EB70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B40F80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B68BA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B71BC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91B783D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91BAF9E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91BBDA10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91BD5A30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91BD8C40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91BDA850.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91CA4090.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91CA76B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD916BD520.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91D622D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91E1AD00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91E72530.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD91F81020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD921F7160.dll
+[HugsLib] version 8.0.1
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002BD856278A0.dll
+[HugsLib] early-initializing AllowTool
+[ATPP] Hospitality found
+Patched jump instruction at 157 to go to our postfix block instead!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No Messy Spawns 1.0.0.0 - Harmony patches successful
+Project RimFactory Core 1.0.0.0 - Harmony patches successful
+DubsPaintShop 1.1.562
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorReconPrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorMarinePrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorCataphract (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorCataphractPrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorLocust (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorMarineGrenadier (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorCataphractPhoenix (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorHelmetReconPrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorMarineHelmetPrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorHelmetCataphract (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.ThingDef named Apparel_ArmorHelmetCataphractPrestige (wanter=storableThingDefs)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Drape
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Drape
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Drape
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Drape
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Brazier
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Throne
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Throne
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Throne
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Throne
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: GrandThrone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: GrandThrone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: GrandThrone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: GrandThrone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: ShipLandingBeacon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: VFEV_FurBed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: CarpetFineWhite
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: CarpetFineIndigo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: CarpetFineBurgundy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: FineTileMarble
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: FineTileSlate
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: FineTileLimestone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: FineTileGranite
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant terrain: FineTileSandstone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AllowTool][ERR] Command_GizmoOnGUI infix could not be applied.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AllowTool][ERR] Command_GizmoOnGUI infix could not be applied.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Translation data for language English has 126 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Uuugggg.rimworld.Replace_Stuff.main] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.GhostDrawer.DrawGhostThing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Alien race successfully completed 136 patches with harmony.
+Patching
+MineItAll injected.
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+Damage Indicators initialized.
+ExpandedRoofing: generating dynamic defs
+RimThreaded Harmony is loading...
+RimThreaded patching is complete.
+[HugsLib] initializing Hospitality, BetterPawnControl, MineItAll, PeteTimesSix.SimpleSidearms, Autopsy, CombatTrainingFixed
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, AndroidOperationKit
+Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, ATPP_AndroidPod, ATPP_AndroidPodMech, AndroidOperationBed, QueenBed
+[ATPP] BlacklistigOtherAR  : Corpse_Human
+[ATPP] BlacklistigOtherAR  : Corpse_HiveQueen
+[ATPP] BlacklistigOtherAR  : Corpse_Hivelet
+[ATPP] BlacklistigOtherAR  : Corpse_Hiveling
+[ATPP] BlacklistigOtherAR  : Corpse_Warriorling
+[ATPP] 13 Care job collected for crafting injection
+[ATPP] 4 MentalBreaks collected
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298300 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 18115.
+Total: 175.605600 ms (FindLiveObjects: 0.818200 ms CreateObjectMapping: 0.352900 ms MarkObjects: 174.297300 ms  DeleteObjects: 0.136800 ms)
+
+Loading game from file Pact of Farreoum with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - UnlimitedHugs.HugsLib
+  - erdelf.HumanoidAlienRaces
+  - Orion.Hospitality
+  - VouLT.BetterPawnControl
+  - Oblitus.AnimalsLogic
+  - fluffy.blueprints
+  - UnlimitedHugs.AllowTool
+  - Atlas.AndroidTiers
+  - weilbyte.snapout
+  - NanoCE.GlassLights
+  - notfood.MendAndRecycle
+  - Haplo.Miscellaneous.Core
+  - PinoChemicali.MoreTradeShips
+  - dracoix.doormat.r12a
+  - notfood.Infused
+  - syrchalis.bulletcasings
+  - PackMulesExtended.Dinosauria
+  - PackMulesExtended.Standard
+  - velc.MineItAll
+  - syrchalis.glowinghealroot
+  - Haplo.Miscellaneous.Robots
+  - Alaestor.MiscRobots.PlusPlus
+  - automatic.bionicicons
+  - gguake.ui.simplesearchbar
+  - CrashM.ColorCodedMoodBar.11
+  - CaesarV6.DamageIndicators
+  - spdskatr.projectrimfactory
+  - neceros.reinforcedwalls
+  - Murmur.WallLight
+  - brrainz.achtung
+  - sarg.alphaanimals
+  - Dubwise.DubsPaintShop
+  - Krafs.LevelUp
+  - Mlie.VariousSpaceShipChunk
+  - wit.expandedroofing
+  - PeteTimesSix.SimpleSidearms
+  - spincrus.dinosauria
+  - fluffy.researchtree
+  - EdB.PrepareCarefully
+  - jecrell.doorsexpanded
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - Smuffle.HarvestOrgansPostMortem
+  - Bichang.MoreSculpture
+  - RadZerp.neoRimNauts
+  - yiuaaa.NetGun
+  - Absolute.Legends.Hair
+  - itzal.pi.mp
+  - itzal.vw.emg
+  - itzal.pi.bg
+  - Ogliss.Mythos.ExtendedHumanBodySimulation
+  - helldragger.combattrainingforked
+  - Crudbone.Holsters.Scabbards
+  - Crudbone.BandageWrap
+  - Mlie.ElectricFencesAndFloors
+  - erdelf.ModderCredit
+  - Nykot.RPGStyleInventory
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VCookEStews
+  - Ekai.FavLocker
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VHE.Beards
+  - Pausbrak.RangedDPS
+  - Murmur.PawnNameVariety
+  - onyxae.dragonsdescent
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VPlantsESucculents
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VWEG
+  - dhultgren.smarterconstruction
+  - VanillaExpanded.VWEL
+  - hivehuman2.mod
+  - TMC.Armory.Shotguns.1
+  - TMC.Armory.AssaultRifle.1
+  - TMC.Armory.Sidearms.1
+  - Uuugggg.ReplaceStuff
+  - cucumpear.cooties
+  - JangoDsoul.T45b.PowerArmor
+  - majorhoff.rimthreaded
+Checking priority 0
+Got 0 things to spawn
+Done spawning
+Falling back to default spawn
+ExpandedRoofing: Glass+Lights configuration done.
+Preparing to apply compatibility patches...
+Found an incompatible Harmony Prefix Patch 'ARA__VerbCheck_Patch' on 'Pawn.TryGetAttackVerb' in DragonsRangeUnlocker, Version=1.0.7369.21702, Culture=neutral, PublicKeyToken=null(com.github.rimworld.mod.DragonAnimalRangeAttack)
+Attempting to replace it with compatibility patches...
+Compatibility patch was applied successfully.
+Compatibility patches were applied successfully.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 22768.
+Total: 307.804900 ms (FindLiveObjects: 1.093100 ms CreateObjectMapping: 0.509000 ms MarkObjects: 306.154900 ms  DeleteObjects: 0.047600 ms)
+
+Already executing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction leader for The Mechanical March is null.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Rat167326 tried to reserve job Ingest (Job_623075) A=Thing_Corpse_Gazelle168003 on target Thing_Corpse_Gazelle168003, but it's already reserved by him.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 50 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 53 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 55 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 57 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Thread: 48 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 54 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 52 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 51 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AA_AnimusVox167959 tried to reserve job Ingest (Job_623920) A=Thing_Corpse_Gazelle166214 on target Thing_Corpse_Gazelle166214, but it's already reserved by him.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Raccoon153008 tried to reserve job Ingest (Job_624026) A=Thing_Corpse_AA_PebbleMit166213 on target Thing_Corpse_AA_PebbleMit166213, but it's already reserved by him.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 63 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 59 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 58 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 73 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_0 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 56 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 62 did not finish within 1000ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 74 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 75 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 64 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Thread: 78 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 61 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 77 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 83 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 80 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 79 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Thread: 86 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711800 ms
+
+Unloading 4374 unused Assets to reduce memory usage. Loaded Objects now: 18734.
+Total: 220.970500 ms (FindLiveObjects: 1.207600 ms CreateObjectMapping: 0.339200 ms MarkObjects: 213.033600 ms  DeleteObjects: 6.389800 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3b50 -> priority: 1 
+  Thread -> id: 3af4 -> priority: 1 
+  Thread -> id: 29c8 -> priority: 1 
+  Thread -> id: 100c -> priority: 1 
+  Thread -> id: 2270 -> priority: 1 
+  Thread -> id: 3a1c -> priority: 1 
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 19957.
+Total: 290.636000 ms (FindLiveObjects: 1.249300 ms CreateObjectMapping: 0.339200 ms MarkObjects: 288.970100 ms  DeleteObjects: 0.077000 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2e74 -> priority: 1 
+  Thread -> id: 1180 -> priority: 1 
+  Thread -> id: 20f0 -> priority: 1 
+  Thread -> id: 1878 -> priority: 1 
+  Thread -> id: 688 -> priority: 1 
+  Thread -> id: 3234 -> priority: 1 
