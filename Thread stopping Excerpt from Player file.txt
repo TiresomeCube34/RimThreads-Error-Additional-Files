@@ -1,0 +1,38 @@
+//"Player" document excerpt of thread stopping issue.
+
+Thread: 64 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Thread: 78 did not finish within 850ms. Restarting thread...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) [0x0000b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement.IsNewThingReplacement (Verse.ThingDef newDef, Verse.IntVec3 pos, Verse.Rot4 rotation, Verse.Map map, Verse.Thing& oldThing) [0x0004c] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at Replace_Stuff.NewThing.TransferSettings.Prefix (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.Rot4 rot, System.Boolean respawningAfterLoad, Verse.Thing& __state) [0x00009] in <dd5f6b372d7741358d6491f16fb78d1f>:0 
+  at (wrapper dynamic-method) Verse.GenSpawn.Verse.GenSpawn.Spawn_Patch2(Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool)
+  at Verse.GenSpawn.Spawn (Verse.Thing newThing, Verse.IntVec3 loc, Verse.Map map, Verse.WipeMode wipeMode) [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.MoteMaker.ThrowAirPuffUp (UnityEngine.Vector3 loc, Verse.Map map) [0x00086] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.IntermittentSteamSprayer.SteamSprayerTick () [0x0003c] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimWorld.Building_SteamGeyser.Tick () [0x00008] in <d72310b4d8f64d25aee502792b58549f>:0 
+  at RimThreaded.Ticklist_Patch.ProcessTicks () [0x00077] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at RimThreaded.Ticklist_Patch+<>c.<CreateTickThreads>b__28_2 () [0x00000] in <39cfbc4d3cb54edc867f4369b6cfb545>:0 
+  at System.Threading.ThreadHelper.ThreadStart_Context (System.Object state) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x0002b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Threading.ThreadHelper.ThreadStart () [0x00008] in <567df3e0919241ba98db88bec4c6696f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.UnhandledExceptionHandler:<RegisterUECatcher>m__0(Object, UnhandledExceptionEventArgs)
+ 
+(Filename: <567df3e0919241ba98db88bec4c6696f> Line: 0)
+
+Thread: 61 did not finish within 850ms. Restarting thread...
+ 
